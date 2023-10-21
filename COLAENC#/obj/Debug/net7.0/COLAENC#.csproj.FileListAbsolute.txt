@@ -1,0 +1,14 @@
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\COLAENC#\bin\Debug\net7.0\COLAENC#.exe
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\COLAENC#\bin\Debug\net7.0\COLAENC#.deps.json
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\COLAENC#\bin\Debug\net7.0\COLAENC#.runtimeconfig.json
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\COLAENC#\bin\Debug\net7.0\COLAENC#.dll
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\COLAENC#\bin\Debug\net7.0\COLAENC#.pdb
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\COLAENC#\obj\Debug\net7.0\COLAENC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\COLAENC#\obj\Debug\net7.0\COLAENC#.AssemblyInfoInputs.cache
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\COLAENC#\obj\Debug\net7.0\COLAENC#.AssemblyInfo.cs
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\COLAENC#\obj\Debug\net7.0\COLAENC#.csproj.CoreCompileInputs.cache
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\COLAENC#\obj\Debug\net7.0\COLAENC#.dll
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\COLAENC#\obj\Debug\net7.0\refint\COLAENC#.dll
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\COLAENC#\obj\Debug\net7.0\COLAENC#.pdb
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\COLAENC#\obj\Debug\net7.0\COLAENC#.genruntimeconfig.cache
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\COLAENC#\obj\Debug\net7.0\ref\COLAENC#.dll
